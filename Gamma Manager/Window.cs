@@ -164,7 +164,6 @@ namespace Gamma_Manager
 
 
             displays = Display.QueryDisplayDevices();
-            displays.Reverse();
             for (int i = 0; i < displays.Count; i++)
             {
                 displays[i].numDisplay = i;
