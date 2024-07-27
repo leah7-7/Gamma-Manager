@@ -1,5 +1,7 @@
 # Gamma Manager
 
+fork with one annoying line of code removed, displays.Reverse(); in Window.cs line 167, resulting in "reversed" order of displays.
+
 Doesn't need setup, works from .exe file. The only additional .ini file is created in the same folder as .exe file (to save settings presets).
 
 Overrides all current gamma settings.
